@@ -1,2 +1,1 @@
-404 not found.
-Sorry, we do not publish a website.
+# Sorry, we do not publish a website.
